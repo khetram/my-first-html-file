@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home{
+  font-size: 30px;
+  padding: 10px 20px;
+}
+p{
+    margin: 10px 20px;
+    font-size: 25px;
+}
+.about{
+    font-size: 30px;
+  padding: 10px 20px;
+}
